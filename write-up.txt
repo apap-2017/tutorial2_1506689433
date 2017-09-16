@@ -1,0 +1,20 @@
+Latihan​ ​Project​ ​Hello​ ​World
+1. Tidak, 404
+2. Tidak CE, masih. 
+3. Tidak CE, Tidak muncul, identifier untuk template (for resolving template to return)
+
+Latihan​ ​Request​ ​Parameter
+1. Sama (Selamat datang chanek !)
+2. Selamat datang null !
+3. Sealamt datang dunia !
+4. Default behaviour of thymeleaf templating engine, replacing original tag value when xml attribut th:text,.. presents. 
+
+Path​ ​Variable
+1. 	- Selamat datang dengklek !
+	- Selamat datang chanek !
+
+Yg dipelajari ditutorial ini :
+-Initiate Spring project & dep 
+- Controller 
+	Request --- > Cotroller --> Response
+- Basic of templating using thymeleaf (intro atleast?)
